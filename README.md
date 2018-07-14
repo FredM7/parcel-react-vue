@@ -1,4 +1,4 @@
-# parcel-react-vue
+# parcel-react-vue-aspnet
 A parcel bundler with basic reactjs and vuejs
 
 ## Install
